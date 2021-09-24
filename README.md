@@ -1,1 +1,1 @@
-# JavaDay1
+# JavaClass
